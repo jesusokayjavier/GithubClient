@@ -1,0 +1,26 @@
+body
+{
+ 
+ background-size:cover;
+ background-image: linear-gradient(to bottom, rgba(0,0,0,0.3)0%,rgba(0,0,0,0.3)100%),url(../photo/fondo.jpg);
+ }
+ h1{color:white;
+ }
+ h2{color:white;
+ }
+ h3{color:white;
+ }
+ h4{color:white;
+ }
+ p {color:white; font-size:10pt; font-family:"Verdana",sans-serif;
+ }
+ b {color:white; font-size:10pt; font-family:"Verdana",sans-serif;
+ }
+ i {color:white; font-size:10pt; font-family:"Verdana",sans-serif;
+ }
+}
+table.center
+{
+  margin-left:auto;margin-right:auto;
+}
+
